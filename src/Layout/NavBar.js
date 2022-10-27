@@ -39,7 +39,7 @@ function NavBar() {
                         </div>
                     </li>
                     <li className="text-xl hover:text-cyan-800 duration-500 my-4 mx-4 md:my-0">
-                        <a href="#">Contacto</a>
+                        <a href="#/">Contacto</a>
                     </li>
                     <li className="text-xl hover:text-cyan-800 duration-500 my-4 mx-4 md:my-0 ">
                         <CartIcon />
