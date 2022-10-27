@@ -1,0 +1,63 @@
+[
+    {
+        "id": "444",
+        "stock": "200",
+        "categoria":"evento",
+        "nombre": "Lollapalloza 2023",
+         "valor": "$200 US",
+        "img": "https://img.freepik.com/free-psd/mockup-half-open-book-standing-light-background_125540-1471.jpg?w=2000",
+        "detalle": "Un dia entrada completa al recital de Lollapallosa"
+    },
+
+    {
+        "id": "151",
+        "stock": "120",
+        "categoria":"Tour",
+        "nombre": "Almafuerte Argentina",
+         "valor": "$3000 US",
+        "img": "https://img.freepik.com/free-psd/mockup-half-open-book-standing-light-background_125540-1471.jpg?w=2000",
+        "detalle": "Entradas y estadias en todos los recitales del nuevo disco de almafuerte"
+    },
+
+    {
+        "id": "6614",
+        "stock": "650",
+        "categoria":"recital",
+        "nombre": "Taylor Switf",
+         "valor": "$50 US",
+        "img": "https://img.freepik.com/free-psd/mockup-half-open-book-standing-light-background_125540-1471.jpg?w=2000",
+        "detalle": "Taylor Swift en el Monumental el 15/03/2023"
+    },
+
+    {
+        "id": "894",
+        "stock": "521",
+        "categoria":"recital",
+        "nombre": "Rolling Stones",
+         "valor": "$80 US",
+        "img": "https://img.freepik.com/free-psd/mockup-half-open-book-standing-light-background_125540-1471.jpg?w=2000",
+        "detalle": "El ultimo recital de la gran era del Rock"
+    },
+
+    {
+        "id": "884",
+        "stock": "113",
+        "categoria":"evento",
+        "nombre": "KPOP.Ar",
+         "valor": "$200 US",
+        "img": "https://img.freepik.com/free-psd/mockup-half-open-book-standing-light-background_125540-1471.jpg?w=2000",
+        "detalle": "Todos los eventos del fin de semana del KPOP en febrero 2023"
+    },
+
+    {
+        "id": "8844",
+        "stock": "21",
+        "categoria":"tour",
+        "nombre": "Leyendas del Rock Argentino",
+         "valor": "$2500 US",
+        "img": "https://img.freepik.com/free-psd/mockup-half-open-book-standing-light-background_125540-1471.jpg?w=2000",
+        "detalle": "12 ciudades, 15 recitales y una experiencia unica de Rick"
+    }
+  
+
+]
